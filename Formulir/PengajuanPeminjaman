@@ -1,0 +1,8 @@
+@csrf
+
+'equipment_id'
+'borrower_name'
+'borrower_nim'
+'borrower_email'
+'loan_date'
+'expected_return_date'

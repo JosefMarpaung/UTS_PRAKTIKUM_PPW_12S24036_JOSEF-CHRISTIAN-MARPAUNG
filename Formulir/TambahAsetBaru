@@ -1,0 +1,9 @@
+@csrf
+
+encytype="multipart/form-data"
+
+'asset_code'
+'name'
+'category_id'
+'daily_rental_fee'
+'image'
